@@ -1,0 +1,2 @@
+# pokedex
+Aplicación PHP, MySQL
